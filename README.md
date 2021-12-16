@@ -20,6 +20,6 @@
   <br>
 
   <br>
-  <a href="choi327391@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flate&logo=gmail&logoColor=white"/>
+  <a href="mailto:choi327391@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flate&logo=gmail&logoColor=white"/>
 
 </div>
