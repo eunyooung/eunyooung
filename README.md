@@ -6,7 +6,6 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eunyooung&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
   ### **Stack**  
-  <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> 
@@ -27,7 +26,6 @@
   <br>
   
   ### **Certification**
-  <br>
   정보처리기사
   <br>
   Google Associate Cloud Engineer
