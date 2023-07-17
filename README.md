@@ -12,9 +12,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> 
   <br>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/> 
@@ -25,7 +24,7 @@
   <br>
   <br>
   
-  ### **Certification**
+  ### **Certifications**
   정보처리기사
   <br>
   Google Associate Cloud Engineer
@@ -33,5 +32,5 @@
   Certified Kubernetes Administrator
   <br>
   <br>
-  👉 <a href="mailto:choi327391@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> 👈
+  👉 <a href="mailto:choi327391@gmail.com"><img src="https://img.shields.io/badge/EMAIL ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> 👈
 </div>
