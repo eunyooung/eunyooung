@@ -3,7 +3,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shrikhand&color=%23000000&size=30&center=true&vCenter=true&height=50&lines=Hi+there%2C+I'm+Eunyoung!)](https://git.io/typing-svg)
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eunyooung&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=eunyooung&theme=graywhite&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
   ### **Stack**  
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
@@ -30,6 +30,8 @@
   Google Associate Cloud Engineer
   <br>
   Certified Kubernetes Administrator
+  <br>
+  SQLD
   <br>
   <br>
   👉 <a href="mailto:choi327391@gmail.com"><img src="https://img.shields.io/badge/EMAIL ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> 👈
